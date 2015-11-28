@@ -6,7 +6,7 @@
  * @description
  * # spinnerBankAngularApp
  *
- * Main module of the application.
+ * Main module of the application. (Pruebas)
  */
 var spinnerBankAngularApp = angular.module('spinnerBankAngularApp', [
     'ngAnimate',
